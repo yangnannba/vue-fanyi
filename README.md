@@ -1,6 +1,6 @@
 # vue-wan
 
-> A Vue.js project
+> 翻译
 
 ## Build Setup
 
