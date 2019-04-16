@@ -2,7 +2,7 @@
 
 > 翻译
 
-![Image text](https://raw.githubusercontent.com/yangnannba/img-zy/master/123.png)
+![Image text](https://raw.githubusercontent.com/yangnannba/vue-fanyi/master/img/123.png)
 
 ## Build Setup
 
